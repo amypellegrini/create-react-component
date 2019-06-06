@@ -1,0 +1,18 @@
+{
+  "name": "create-react-component",
+  "version": "1.0.0",
+  "description": "React component boilerplate/bootstrapping utility",
+  "main": "src/index.js",
+  "repository": "git@github.com:amypellegrini/create-react-component.git",
+  "author": "Amy Pellegrini <amyvpellegrini@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "test --watch": "mocha --watch"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
