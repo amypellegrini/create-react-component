@@ -1,3 +1,5 @@
+"use strict";
+
 /**
  * It should accept a `--componentName=` parameter followed by
  * the desired component name.
