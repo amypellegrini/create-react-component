@@ -2,7 +2,7 @@
 
 Inspired by Facebook's [create-react-app](https://github.com/facebook/create-react-app)
 
-`create-react-component` is intended to be a React component boilerplate/bootstrapper utility which exposes a simple CLI to bootstrap a React component template, and it is designed to speed up the process of creating a component by assuming some reasonable standards and defaults based on popular usage.
+`create-react-component` is intended to be a React component boilerplate/bootstrapping utility which exposes a simple CLI to bootstrap a React component template, and it is designed to speed up the process of creating a component by assuming some reasonable standards and defaults based on popular usage.
 
 This is just in its Alpha stage and I'm currently working alone, so don't rush! Or help me to make this faster with your contributions.
 
@@ -12,7 +12,7 @@ The idea is that given a certain folder structure for components, and a set of d
 
 ## Purpose
 
-### Why not just use `create-react-app`
+### Why not just use `create-react-app`?
 
 There are many instances in which the implementation of a react component may require some basic boilerplate generation process comprised of small and very often repetitive steps, roughly defined as follows:
 
